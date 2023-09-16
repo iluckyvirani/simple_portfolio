@@ -1,0 +1,28 @@
+body{
+    margin: 0;
+}
+.top{
+    background-color: aquamarine;
+    width: 200px;
+    height: 200px;
+    border: solid 10px;
+    padding: 20px;
+    margin: 0%;
+}
+
+.middle{
+    background-color: red;
+    width: 200px;
+    height: 200px;
+    border: solid 20px;
+    margin-left: 260px;
+
+}
+
+.bottom{
+    background-color: yellow;
+    width: 200px;
+    height: 200px;
+    border: solid 10px;
+    margin-left: 500px;
+}
